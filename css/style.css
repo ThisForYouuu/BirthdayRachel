@@ -68,7 +68,7 @@ body {
 
 .ml15 {
     font-weight: 800;
-    font-size: 2.4em;
+    font-size: 2em;
     text-transform: uppercase;
 }
 
@@ -90,7 +90,7 @@ body {
 
 .ml11 {
     font-weight: 700;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .ml11 .text-wrapper {
@@ -152,7 +152,7 @@ body {
 .ml4 {
     position: relative;
     font-weight: 900;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .ml4 .letters {
@@ -166,7 +166,7 @@ body {
 
 .ml12 {
     font-weight: 200;
-    font-size: 1.6em;
+    font-size: 1.4em;
     text-transform: uppercase;
     font-weight: bold;
 }
@@ -177,7 +177,7 @@ body {
 
 .ml14 {
     font-weight: bold;
-    font-size: 1.6em;
+    font-size: 1.4em;
 }
 
 .ml14 .text-wrapper {
@@ -224,7 +224,7 @@ body {
 }
 
 .ml13 {
-    font-size: 1.8em;
+    font-size: 1.6em;
     text-transform: uppercase;
     font-weight: bold;
 }
